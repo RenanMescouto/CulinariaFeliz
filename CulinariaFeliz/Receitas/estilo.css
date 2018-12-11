@@ -1,0 +1,26 @@
+* {
+    font-family: Arial;             
+  }
+
+.bg-title {
+  background-color: #ccc;
+  padding: 50px;
+  text-align: center;
+}
+
+.bg-body {
+  background-color: #ddd;
+  margin-left: 400px;
+  margin-right: 400px;        
+  padding-bottom: 50px;
+}
+
+.btn {
+  background-color: gray;
+  padding: 15px;
+  width: 200px;
+}
+
+.obj-center {
+  text-align: center;
+}
